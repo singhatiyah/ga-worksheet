@@ -12,10 +12,10 @@
 
 3. What tag do we use to make a navigation bar? <      >
 
-4.  <ul> Stands for _____________________
-    <li> Stands for ______________________
+4.  <ul> Stands for unlisted
+    <li> Stands for listed item
 
-5. What does the <a> tag do?
+5. What does the <a> tag do? it makes a link to another page.
 
 6. What would the line of HTML below do?
 
