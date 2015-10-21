@@ -6,9 +6,9 @@
 
 
 ##Project #2 Part #1: Header HTML
-1. What is the purpose of the header tag?
+1. What is the purpose of the header tag? for organization.
 
-2. What is a Navigation Bar?
+2. What is a Navigation Bar? to helppeople findwhat thee
 
 3. What tag do we use to make a navigation bar? <      >
 
@@ -17,7 +17,7 @@
 
 5. What does the <a> tag do? it makes a link to another page.
 
-6. What would the line of HTML below do?
+6. What would the line of HTML below do? lead to google 
 
 ``` html
 <a href="http://www.google.com">Google</a>
